@@ -1,0 +1,36 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+body {
+    background-color: rgb(63, 53, 26);
+}
+main {
+    width: 60%;
+    margin: 5px auto;
+    background-color: white;
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.3);
+}
+h1 {
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 5px;
+}
+div {
+    width: 80%;
+    margin: auto;
+}
+img {
+    width: 100%;
+    height: auto;
+}
